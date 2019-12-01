@@ -10,9 +10,9 @@ For example:
 
 ```toml
 [config]
-key = value
+key = "value"
 [config.property]
-key = other-value
+key = "other-value"
 ```
 
 Can be parsed into the following flags:
